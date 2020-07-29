@@ -38,3 +38,22 @@
   animation-name: slideIn;
 }
 
+.list-group-item.bg-info.heading {
+  height: 78px;
+}
+
+.row.justify-content-start.align-items-start {
+}
+
+@media (min-width: 300px) {
+  .list-group-item.bg-primary.heading {
+    height: 700px;
+  }
+}
+
+@media (min-width: 300px) {
+  span {
+    font-size: small;
+  }
+}
+

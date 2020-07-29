@@ -1,0 +1,6 @@
+@media (min-width: 576px) {
+  .navbar.navbar-light.navbar-expand.fixed-top.bg-white.shadow.mb-4.topbar.static-top {
+    margin-left: 104px;
+  }
+}
+

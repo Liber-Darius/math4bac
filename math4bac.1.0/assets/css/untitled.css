@@ -1,0 +1,12 @@
+@media (min-width: 768px) {
+  #wrapper {
+    margin: 0px 0px 10px 227px;
+  }
+}
+
+@media (min-width: 576px) {
+  .list-group-item.bg-success.heading {
+    height: 50px;
+  }
+}
+

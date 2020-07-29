@@ -158,3 +158,15 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 1;
 }
 
+.list-group-item.bg-info.heading {
+}
+
+.list-group-item.bg-info.heading {
+}
+
+@media (min-width: 576px) {
+  .col-sm-12.col-md-12.plan.price.red.wow.fadeInDown {
+    margin-top: -55px;
+  }
+}
+
